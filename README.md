@@ -1,0 +1,2 @@
+# SlashCmdBot
+Discord slash commands
